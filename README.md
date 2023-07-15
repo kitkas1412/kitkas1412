@@ -59,7 +59,7 @@
 
   <td  align="center">
     <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
-    <details><summary>Midly interesting facts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
+    <!-- <details><summary>Midly interesting facts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.habits.facts.svg" alt=""></img></details> -->
     <img width="900" height="1" alt="">
   </td>
 </tr>
