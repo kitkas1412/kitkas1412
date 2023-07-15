@@ -84,6 +84,16 @@
   </td>
 </tr>
 
+<tr>
+  <th colspan="2"><h3>🌟 16personality 🌟</h3></th>
+</tr>
+
+<tr>
+  <td colspan="2" align="center">
+      <img alt="" width="800" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.16personalities.svg" alt="Commits Game"></img>
+  </td>
+</tr>
+
 </table>
 
 # 💻Tech Stack
