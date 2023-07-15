@@ -21,10 +21,10 @@
   </td>
     <td  align="center">
     <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-    <details><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.languages.recent.svg" alt=""></img></details>
+    <!-- <details><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.languages.recent.svg" alt=""></img></details>
     <details><summary>Default algorithm</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.languages.svg" alt=""></img></details>
     <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.languages.details.svg" alt=""></img></details>
-    <img width="900" height="1" alt="">
+    <img width="900" height="1" alt=""> -->
   </td>
 </tr>
 
