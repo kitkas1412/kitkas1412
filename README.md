@@ -32,8 +32,8 @@
 
 <tr>
   <td  align="center">
-    <details open><summary>With icons</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
-    <details open><summary>With labels</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.topics.svg" alt=""></img></details>
+    <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
+    <details open><summary>With labels</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.topics.svg" alt=""></img></details>
     <img width="900" height="1" alt="">
   </td>
   <td  align="center">
