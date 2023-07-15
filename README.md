@@ -17,7 +17,7 @@
 <tr>
   <td align="center"> 
     <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-    <!-- <img width="900" height="1" alt=""> -->
+    <img width="900" height="1" alt="">
   </td>
     <td  align="center">
     <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.languages.indepth.svg" alt=""></img></details>
