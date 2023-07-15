@@ -25,6 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          filename: metrics.plugin.introduction.svg
           user: kitkas0000
           template: classic
           base: header
