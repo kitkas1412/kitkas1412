@@ -53,7 +53,7 @@
 
 <tr>
  <td align="center">
-    <details open><summary>User</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.introduction.svg" alt=""></img></details>
+    <details open><summary>User</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.introduction.svg" alt=""></img></details>
     <img width="900" height="1" alt="">
     <details open><summary>Repository</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.repository.svg" alt=""></img></details>
   </td>
