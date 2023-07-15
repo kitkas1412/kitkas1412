@@ -10,8 +10,8 @@
 </tr>
 
 <tr>
-  <th colspan="2" align="center">📅 Commit calendar</th>
-  <th colspan="2" align="center">🈷️ Most used languages</th>
+  <th align="center">📅 Commit calendar</th>
+  <th align="center">🈷️ Most used languages</th>
 </tr>
 
 <tr>
