@@ -8,21 +8,20 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
+          # Current configuration doesn't require a GitHub token
+          token: NOT_NEEDED
 
           # Options
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
+          user: kitkas0000
+          template: classic
           base: ""
+          config_timezone: Asia/Saigon
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 12
           plugin_topics_mode: icons
+          plugin_topics_sort: stars
