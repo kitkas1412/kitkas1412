@@ -77,18 +77,6 @@
     <th><a href="https://metrics.lecoq.io/embed">📊 Metrics embed</a></th>
     <th><a href="https://metrics.lecoq.io/insights">✨ Metrics insights</a></th>
   </tr>
-  <tr>
-    <td align="center">
-      Embed metrics images on your profile or blog!<br>
-      Use <a href="https://github.com/marketplace/actions/metrics-embed">GitHub actions</a> for even more features!<br>
-      <img src="/.github/readme/imgs/features_embed.gif" width="360">
-    </td>
-    <td align="center">
-      Share your metrics with friends and on social medias!<br>
-      No configuration needed!<br>
-      <img src="/.github/readme/imgs/features_insights.gif" width="360">
-    </td>
-  </tr>
 </table>
 
 # 📚 Documentation
