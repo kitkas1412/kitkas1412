@@ -61,16 +61,24 @@
   </tr>
 
   <tr>
-    <th><a href="source/plugins/steam/README.md">🕹️ Steam</a></th>
-    <th></th>
+    <th colspan="2"><h3>🕹️ Steam</h3></th>
   </tr>
   <tr>
-        <td  align="center">
-        <details open><summary>Recently played games</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.svg" alt=""></img></details>
-        <details><summary>Profile and detailed game history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.full.svg" alt=""></img></details>
+    <td  align="center">
+      <details open><summary>Recently played games</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.svg" alt=""></img></details>
+      <details><summary>Profile and detailed game history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.full.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
-      </td>
+    </td>
     <td align="center"><img width="900" height="1" alt=""></td>
+  </tr>
+
+  <tr>
+    <th colspan="2"><h3>🌟 16personality 🌟</h3></th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+        <img alt="" width="800" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.16personalities.svg" alt="Commits Game"></img>
+    </td>
   </tr>
 
   <tr>
