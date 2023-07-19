@@ -74,6 +74,30 @@
   </tr>
 
   <tr>
+    <th colspan="2"><h2>🦑 Try it now!</h2></th>
+  </tr>
+  <tr>
+    <th><a href="https://metrics.lecoq.io/embed">📊 Metrics embed</a></th>
+    <th><a href="https://metrics.lecoq.io/insights">✨ Metrics insights</a></th>
+  </tr>
+  <tr>
+    <td align="center">
+      Embed metrics images on your profile or blog!<br>
+      Use <a href="https://github.com/marketplace/actions/metrics-embed">GitHub actions</a> for even more features!<br>
+      <img src="/.github/readme/imgs/features_embed.gif" width="360">
+    </td>
+    <td align="center">
+      Share your metrics with friends and on social medias!<br>
+      No configuration needed!<br>
+      <img src="/.github/readme/imgs/features_insights.gif" width="360">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      Test latest features and patches on <code><a href="https://beta-metrics.lecoq.io">🧪 Metrics beta</a></code>!
+    </td>
+  </tr>
+  <tr>
     <td align="center" colspan="2">
       <b>Power user?</b><br>
       <a href="https://github.com/lowlighter/metrics/fork">Fork this repository</a> and edit HTML, CSS, JS and <a href="https://github.com/mde/ejs">EJS</a> for even more customization!
