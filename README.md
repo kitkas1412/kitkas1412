@@ -39,25 +39,12 @@
       <td  align="center">
         <details open><summary>User</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.introduction.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
-        <details open><summary>Repository</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.repository.svg" alt=""></img></details>
+        <details open><summary>Repository</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.repository.svg" alt=""></img></details>
       </td>
       <td  align="center">
-        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
+        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
-  </tr>
-
-  <tr>
-    <th colspan="2"><h3>🌸 Anilist watch list and reading list</h3></th>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>For anime watchers</summary><img src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.anilist.svg" alt=""></img></details>
-      <details><summary>For manga readers</summary><img src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
-      <details open><summary>For waifus simp</summary><img src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.anilist.characters.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
   </tr>
 
   <tr>
@@ -68,10 +55,20 @@
     <td align="center">
       <details open><summary>Recently played games</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.svg" alt=""></img></details>
       <details><summary>Profile and detailed game history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.full.svg" alt=""></img></details>
-      <img src="/.github/readme/imgs/features_embed.gif" width="360">
     </td>
     <td align="center">
       <img alt="" width="800" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.16personalities.svg" alt="Commits Game"></img>
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="2"><h3>🌸 Anilist watch list and reading list</h3></th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <details open><summary>For anime watchers</summary><img src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.anilist.svg" alt=""></img></details>
+      <details><summary>For manga readers</summary><img src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
+      <details open><summary>For waifus simp</summary><img src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.anilist.characters.svg" alt=""></img></details>
       <img src="/.github/readme/imgs/features_embed.gif" width="360">
     </td>
   </tr>
