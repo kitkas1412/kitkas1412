@@ -18,6 +18,6 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_steam: yes
-          plugin_steam_token: 01886B661FBF4270F8A4A89677A39D15
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "0"
           plugin_steam_achievements_limit: 0
