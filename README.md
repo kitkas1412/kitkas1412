@@ -73,10 +73,6 @@
         <img alt="" width="800" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.16personalities.svg" alt="Commits Game"></img>
     </td>
   </tr>
-
-  <tr>
-    <th colspan="2"><h2>🦑 Try it now!</h2></th>
-  </tr>
   <tr>
     <th><a href="https://metrics.lecoq.io/embed">📊 Metrics embed</a></th>
     <th><a href="https://metrics.lecoq.io/insights">✨ Metrics insights</a></th>
