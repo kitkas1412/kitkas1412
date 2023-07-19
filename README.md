@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif"  />
+  <img height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"  />
 </div>
 
 ###
