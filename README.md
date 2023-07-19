@@ -1,8 +1,6 @@
 <h3 align="center"><a href="https://www.facebook.com/necotherainbow/">🧩 Hello World 🌍 I'm Neco! 👋 </a></h3>
 <p align="center">I am a Developer from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/></p>
-<a align="center">
-  📚 I’m studying at FPT University
-</a>
+<a align="center">📚 I’m studying at FPT University</a>
 
 <table>
 <tr>
