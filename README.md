@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kitkas0000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=GitHub Stats" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kitkas0000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=GitHub Stats" height="220" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kitkas0000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="220" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=kitkas0000&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
