@@ -28,8 +28,6 @@
 
 ###
 
-###
-
 <p align="left">I'm a developer from VietNam <img width="21" src="/assets/id-flag.png" style="margin-left:4px"/><br><br>- 🔭 I’m studying at FPT University<br>- 📚 I'm currently learning Unity and Unreal Engine<br>- 📫 You can contact me with ng.dinhduc.2311@gmail.com</p>
 
 ###
