@@ -93,7 +93,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kitkas0000&show_icons=true&locale=en&layout=compact" height="220" alt="kitkas0000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kitkas0000&show_icons=true&theme=dark&hide_border=true&locale=en" alt="kitkas0000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kitkas0000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="220" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=kitkas0000&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
