@@ -68,25 +68,11 @@
     <td align="center">
       <details open><summary>Recently played games</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.svg" alt=""></img></details>
       <details><summary>Profile and detailed game history</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.steam.full.svg" alt=""></img></details>
-    </td>
-    <td align="center">
-        <img alt="" width="800" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.16personalities.svg" alt="Commits Game"></img>
-    </td>
-  </tr>
-  <tr>
-    <th><a href="https://metrics.lecoq.io/embed">📊 Metrics embed</a></th>
-    <th><a href="https://metrics.lecoq.io/insights">✨ Metrics insights</a></th>
-  </tr>
-  <tr>
-    <td align="center">
-      Embed metrics images on your profile or blog!<br>
-      Use <a href="https://github.com/marketplace/actions/metrics-embed">GitHub actions</a> for even more features!<br>
       <img src="/.github/readme/imgs/features_embed.gif" width="360">
     </td>
     <td align="center">
-      Share your metrics with friends and on social medias!<br>
-      No configuration needed!<br>
-      <img src="/.github/readme/imgs/features_insights.gif" width="360">
+      <img alt="" width="800" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.16personalities.svg" alt="Commits Game"></img>
+      <img src="/.github/readme/imgs/features_embed.gif" width="360">
     </td>
   </tr>
 </table>
