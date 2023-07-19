@@ -89,17 +89,6 @@
       <img src="/.github/readme/imgs/features_insights.gif" width="360">
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      Test latest features and patches on <code><a href="https://beta-metrics.lecoq.io">🧪 Metrics beta</a></code>!
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <b>Power user?</b><br>
-      <a href="https://github.com/lowlighter/metrics/fork">Fork this repository</a> and edit HTML, CSS, JS and <a href="https://github.com/mde/ejs">EJS</a> for even more customization!
-    </td>
-  </tr>
 </table>
 
 # 📚 Documentation
