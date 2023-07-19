@@ -14,15 +14,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
 
           # Options
           filename: metrics.plugin.topics.icons.svg
-          user: kitkas0000
-          template: classic
+          token: NOT_NEEDED
           base: ""
-          config_timezone: Asia/Saigon
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: icons
-          plugin_topics_sort: stars
