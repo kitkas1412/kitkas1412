@@ -32,18 +32,17 @@
       </td>
   </tr>
   <tr>
-    <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
-    <th><a href="source/plugins/habits/README.md">💡 Coding habits and activity</a></th>
+    <th>🙋 Introduction</th>
+    <th>💡 Coding habits and activity</th>
   </tr>
   <tr>
-        <td  align="center">
-        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg" alt=""></img></details>
-        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
+      <td  align="center">
+        <details open><summary>User</summary><img alt="" width="400" src="https://github.com/kitkas0000/kitkas0000/blob/main/metrics.plugin.introduction.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
+        <details open><summary>Repository</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.repository.svg" alt=""></img></details>
       </td>
-        <td  align="center">
-        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img></details>
-        <details open><summary>Mildly interesting facts</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt=""></img></details>
+      <td  align="center">
+        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/kitkas0000/kitkas0000/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
   </tr>
