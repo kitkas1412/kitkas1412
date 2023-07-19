@@ -4,19 +4,6 @@
 
 <table>
   <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-    </td>
-    <td align="center">
-      <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-    </td>
-  </tr>
-  
-  <tr>
     <th colspan="2" align="center">
       <h3><a href="/README.md#-plugins">🧩 Customizable with 46 plugins and 329 options!</a></h3>
     </th>
