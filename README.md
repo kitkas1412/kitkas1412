@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at FPT University<br>🌱 I’m currently learning Business Analysis and Data Analysis<br>💬 You can contact me at ng.dinhduc.2311@gmail.com<br>⚡ Fun fact: I'm Vietnamese 
+🎓 I graduated with a Bachelor's Degree in Software Engineering from FPT University<br>🌱 I’m currently learning AWS Certified Cloud Practitioner<br>💬 You can contact me at ng.dinhduc.work@gmail.com
 
 
 ## 🌐 Socials:
